@@ -1,3 +1,3 @@
-# Data_science_journey
+# Data_science_mini_projects
 
-This reository contains my data-science portfolio including the projects, codes and reports 
+This reository contains my data-science mini projects including the project codes and notebooks 
